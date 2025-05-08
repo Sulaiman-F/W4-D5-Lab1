@@ -14,7 +14,7 @@ function textcolor() {
     text.style.color = "blue"
 }
 function btncolor() {
-    btn.style.backgroundColor = "Blue"
+    text.style.backgroundColor = "Blue"
 }
 
 function addimg() {
